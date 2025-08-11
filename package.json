@@ -1,6 +1,6 @@
 {
   "name": "mcp-workflowy",
-  "version": "0.1.3",
+  "version": "0.0.0-dev",
   "description": "MCP server that lets agents talk to Workflowy",
   "bin": {
     "mcp-workflowy": "dist/index.js"
@@ -47,7 +47,7 @@
     "dotenv": "^16.5.0",
     "effect": "^3.14.18",
     "fastmcp": "^1.23.2",
-    "workflowy": "^2.8.0"
+    "workflowy": "^2.8.1"
   },
   "overrides": {
     "cross-spawn": ">=7.0.5",
