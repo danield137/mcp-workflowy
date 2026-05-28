@@ -46,8 +46,7 @@
     "@valibot/to-json-schema": "^0.1.0",
     "dotenv": "^16.5.0",
     "effect": "^3.14.18",
-    "fastmcp": "^1.23.2",
-    "workflowy": "^2.8.2"
+    "fastmcp": "^1.23.2"
   },
   "overrides": {
     "cross-spawn": ">=7.0.5",
